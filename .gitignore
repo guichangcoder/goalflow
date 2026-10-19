@@ -1,0 +1,10 @@
+# WorkBuddy 内部数据目录，不进仓库
+.workbuddy/
+
+# 本地工作副本（仓库门面用 index.html，内容与本文件相同）
+goal-focus.html
+
+# 系统杂物
+Thumbs.db
+desktop.ini
+.DS_Store
